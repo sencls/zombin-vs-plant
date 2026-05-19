@@ -92,6 +92,6 @@ main.cpp (游戏循环: 输入 → 更新 → 渲染)
 核心设计模式：**场景模式**管理游戏状态流转，**状态模式**驱动角色动画切换，**观察者模式** (Timer 回调) 处理延时事件，**工厂模式**根据选择创建角色实例。
 
 ## 致谢
-
+- B站up：voidmatrix https://space.bilibili.com/25864506?spm_id_from=333.337.0.0
 - 灵感来源：PopCap Games《植物大战僵尸》
 - 图形引擎：[EasyX](https://easyx.cn)
